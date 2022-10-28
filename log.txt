@@ -1,0 +1,8 @@
+дек. 21, 2021 8:39:16 PM mManager.Manager main
+SEVERE: Manager start working...
+дек. 21, 2021 8:39:16 PM mManager.Manager main
+SEVERE: Parse config
+дек. 21, 2021 8:39:16 PM mManager.Manager main
+SEVERE: Main function
+дек. 21, 2021 8:39:16 PM mManager.Manager main
+SEVERE: Success

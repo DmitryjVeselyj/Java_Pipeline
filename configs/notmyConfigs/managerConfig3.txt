@@ -1,0 +1,9 @@
+#executors go in direct order
+INPUT_FILE = files\outText.txt
+OUTPUT_FILE = files\outText1.txt
+READER_NAME = mReader.Reader
+WRITER_NAME = mWriter.Writer
+EXECUTOR_NAME = LZW_Executor, mExecutor.Executor, Encoder, Decoder, mExecutor.Executor, LZW_Executor
+READER_CONFIG = configs\readerConfig.txt
+EXECUTOR_CONFIG = configs\lzw_executor_encode_config.txt, configs\executorEncryptConfig.txt, configs\subst_encoder_config.txt, configs\subst_decoder_config.txt, configs\executorDecryptConfig.txt, configs\lzw_executor_decode_config.txt 
+WRITER_CONFIG = configs\writerConfig.txt

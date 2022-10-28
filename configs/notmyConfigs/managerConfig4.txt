@@ -1,0 +1,8 @@
+INPUT_FILE = files\outText.txt
+OUTPUT_FILE = files\outText1.txt
+READER_NAME = mReader.Reader
+EXECUTOR_NAME = mExecutor.Executor
+WRITER_NAME = LZW_Writer
+READER_CONFIG = configs\readerConfig.txt
+EXECUTOR_CONFIG = configs\executorDecryptConfig.txt
+WRITER_CONFIG = configs\lzw_writer_config.txt

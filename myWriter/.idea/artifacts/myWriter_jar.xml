@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myWriter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myWriter_jar</output-path>
+    <root id="archive" name="myWriter.jar">
+      <element id="module-output" name="myWriter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SyntaxAnaliz/out/artifacts/SyntaxAnaliz_jar/SyntaxAnaliz.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

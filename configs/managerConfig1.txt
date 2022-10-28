@@ -1,0 +1,8 @@
+INPUT_FILE = files\outText.txt
+OUTPUT_FILE = files\outText1.txt
+READER_NAME = mReader.Reader
+WRITER_NAME = mWriter.Writer
+EXECUTOR_NAME = mExecutor.Executor
+READER_CONFIG = configs\readerConfig.txt
+EXECUTOR_CONFIG = configs\executorDecryptConfig.txt
+WRITER_CONFIG = configs\writerConfig.txt

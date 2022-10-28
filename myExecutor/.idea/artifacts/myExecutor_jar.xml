@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myExecutor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myExecutor_jar</output-path>
+    <root id="archive" name="myExecutor.jar">
+      <element id="module-output" name="myExecutor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SyntaxAnaliz/out/artifacts/SyntaxAnaliz_jar/SyntaxAnaliz.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

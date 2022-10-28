@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SyntaxAnaliz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SyntaxAnaliz_jar</output-path>
+    <root id="archive" name="SyntaxAnaliz.jar">
+      <element id="module-output" name="SyntaxAnaliz" />
+    </root>
+  </artifact>
+</component>
